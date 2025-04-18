@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://willhuey.com/sitemap.xml
+Sitemap: https://willhuey.com/alfolio//sitemap.xml
