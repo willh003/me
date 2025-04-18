@@ -77,39 +77,39 @@
         "institution": "Cornell University College of Engineering",
         "location": "Ithaca, NY",
         "url": "",
-        "area": "Computer Science",
-        "studyType": "B.S.",
-        "startDate": "2021-01-01",
-        "endDate": "2025-01-01",
-        "score": "3.96",
+        "area": "",
+        "studyType": "Bachelor of Science in Computer Science",
+        "startDate": "2021-08-20",
+        "endDate": "2025-05-01",
+        "score": "4.1/4.3",
         "courses": []
       }
     ],
     "awards": [
       {
-        "title": "Rawlings Cornell Research Scholarship",
-        "date": "2023-01-01",
+        "title": "Rawlings Cornell Presidential Research Scholarship",
+        "date": "2023-06-01",
         "awarder": "Cornell University",
         "url": "",
         "summary": "$8k in open-ended research funding"
       },
       {
         "title": "First Prize at Rawlings Cornell Research Scholarship Grand Slam",
-        "date": "2023-01-01",
+        "date": "2025-02-24",
         "awarder": "Cornell University",
         "url": "",
         "summary": "$500 prize for research presentation"
       },
       {
         "title": "Dean's List",
-        "date": "2021-01-01",
+        "date": "2021-12-20",
         "awarder": "Cornell University",
         "url": "",
         "summary": "All semesters"
       },
       {
         "title": "Connecticut Debate State Champion",
-        "date": "2020-04-01",
+        "date": "2020-04-15",
         "awarder": "Connecticut Debate Association",
         "url": "",
         "summary": ""
@@ -120,18 +120,18 @@
       {
         "name": "Imitation Learning from a Single Temporally Misaligned Video",
         "publisher": "In review at top ML conference",
-        "releaseDate": "2025-01-01",
+        "releaseDate": "2025-02-08",
         "url": "https://arxiv.org/abs/2502.05397",
-        "summary": "First-author publication (equal contribution with Huaxiaoyue Wang) on a novel approach for learning difficult robotic control tasks from video"
+        "summary": "William Huey*, Huaxiaoyue Wang*, Anne Wu, Yoav Artzi, Sanjiban Choudhury"
       },
       {
         "name": "Time your rewards: Learning Temporally Consistent Rewards from a Single Video Demonstration",
         "publisher": "CoRL 2024 Workshop on Whole-body Control and Bimanual Manipulation",
-        "releaseDate": "2024-01-01",
+        "releaseDate": "2024-10-30",
         "url": "https://openreview.net/forum?id=gsgkiuv9BS",
-        "summary": "Co-first-author publication (equal contribution with Huaxiaoyue Wang) presented at CoRL 2024 workshop"
+        "summary": "Huaxiaoyue Wang*, William Huey*, Anne Wu, Yoav Artzi, Sanjiban Choudhury"
       }
-    ],
+    ], 
     "skills": [
       {
         "name": "Programming Languages",
