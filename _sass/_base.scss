@@ -397,33 +397,35 @@ ul.task-list input[type="checkbox"] {
 
 // Social (bottom)
 
+
 .social {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem; // Reduced from 4rem
 
     a {
       img {
-        width: 3.2rem;
-        height: 3.2rem;
-        margin-bottom: 1rem;
+        width: 2.8rem; // Reduced from 3.2rem
+        height: 2.8rem; // Reduced from 3.2rem
+        margin-bottom: 0.8rem; // Slightly reduced margin
       }
 
       svg {
-        width: 3.5rem;
-        height: 4rem;
-        margin-bottom: 0.5rem;
+        width: 3.0rem; // Reduced from 3.5rem
+        height: 3.6rem; // Reduced from 4rem
+        margin-bottom: 0.4rem; // Slightly reduced margin
 
         image {
-          width: 3.5rem;
-          height: 3.5rem;
+          width: 3.0rem; // Reduced from 3.5rem
+          height: 3.0rem; // Reduced from 3.5rem
         }
       }
 
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
+        font-size: 0.75em; // Added to scale down font awesome icons
       }
 
       &:hover {
@@ -854,13 +856,6 @@ footer.sticky-bottom {
         transition: all 0.15s ease;
       }
 
-      div.abstract.hidden {
-        border: dashed 1px var(--global-bg-color);
-      }
-
-      div.abstract.hidden.open {
-        border-color: var(--global-text-color);
-      }
     }
     div.award.hidden {
       border: dashed 1px var(--global-bg-color);
@@ -868,8 +863,16 @@ footer.sticky-bottom {
     div.award.hidden.open {
       border-color: var(--global-highlight-color);
     }
+    
   }
 }
+
+.tldr {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+  }
 
 // Rouge Color Customization
 figure.highlight {

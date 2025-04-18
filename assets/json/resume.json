@@ -1,200 +1,165 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "basics": {
+      "name": "William Huey",
+      "image": "",
+      "email": "willhu003@gmail.com",
+      "url": "https://www.willhuey.com",
+      "summary": "Computer Science student at Cornell University interested in safe, interactive robotics",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Ithaca",
+        "countryCode": "US",
+        "region": "New York"
+      },
+      "profiles": []
     },
-    "profiles": [
+    "work": [
+        {
+            "name": "Research Associate",
+            "position": "Cornell People and Robots Teaching and Learning Lab",
+            "summary": "Imitation learning from videos under Prof. Sanjiban Choudhury",
+            "highlights": [
+              "Discovered a novel approach for learning difficult robotic control tasks from a video",
+              "Achieved >4x improvement above existing baselines on 16 manipulation and humanoid control tasks in simulation",
+              "Presented at a CoRL 2024 workshop and submitted a first-author publication to a top ML conference (in review)"
+            ],
+            "startDate": "2024-09-01",
+            "endDate": "Present",
+            "url": ""
+        },
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "name": "Software Engineering Intern",
+        "position": "Amazon Web Services",
+        "url": "",
+        "startDate": "2024-06-01",
+        "endDate": "2024-09-01",
+        "summary": "Cloud infrastructure for packaging and builder tools",
+        "highlights": [
+            "Deployed an AWS microservice to optimize software package storage, projected to save **$50M+** per year",
+          "Developed the application in Java and Typescript using ECS Fargate, DynamoDB, SQS, S3 event notifications, Cloudwatch metrics and alarms, and internal CI/CD pipelines",
+          "Collaborated with developers across multiple teams to identify key design choices",
+          "Wrote extensive unit, integration, and load tests that reflect actual customer request patterns"
+        ]
+      },
+      {
+        "name": "Research Intern",
+        "position": "ETH Zurich Robotic Systems Lab",
+        "summary": "Mobile robot traversability mapping under Prof. Marco Hutter and Prof. Donald Greenberg",
+        "highlights": [
+          "Built a ROS package for mobile robot traversability mapping, resulting in a successful deployment on an ANYmal quadruped",
+          "Proposed a novel method to predict environment traversability given language constraints using VLMs",
+          "Distilled large VLMs into smaller visual networks capable of real-time traversability segmentation",
+          "Presented work at the Rawlings Cornell Research Scholarship Grand Slam, winning first prize of $500"
+        ],
+        "startDate": "2023-06-01",
+        "endDate": "2023-08-01",
+        "url": ""
+      },
+      {
+        "name": "Software Engineering Intern",
+        "position": "NASA",
+        "url": "",
+        "startDate": "2022-05-01",
+        "endDate": "2022-08-01",
+        "summary": "Combinatorial methods for flight control software verification",
+        "highlights": [
+            "Developed a Python application to generate minimal test suites achieving high combinatorial coverage in state-based control systems",
+          "Identified unit tests improving combinatorial coverage of Starship HLS flight control software",
+          "Collaborated closely with NASA engineers and NIST researchers to evaluate integration testing procedures"
+        ]
       }
-    ]
-  },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
-}
+    ],
+    "volunteer": [],
+    "teaching": [],
+    "education": [
+      {
+        "institution": "Cornell University College of Engineering",
+        "location": "Ithaca, NY",
+        "url": "",
+        "area": "Computer Science",
+        "studyType": "B.S.",
+        "startDate": "2021-01-01",
+        "endDate": "2025-01-01",
+        "score": "3.96",
+        "courses": []
+      }
+    ],
+    "awards": [
+      {
+        "title": "Rawlings Cornell Research Scholarship",
+        "date": "2023-01-01",
+        "awarder": "Cornell University",
+        "url": "",
+        "summary": "$8k in open-ended research funding"
+      },
+      {
+        "title": "First Prize at Rawlings Cornell Research Scholarship Grand Slam",
+        "date": "2023-01-01",
+        "awarder": "Cornell University",
+        "url": "",
+        "summary": "$500 prize for research presentation"
+      },
+      {
+        "title": "Dean's List",
+        "date": "2021-01-01",
+        "awarder": "Cornell University",
+        "url": "",
+        "summary": "All semesters"
+      },
+      {
+        "title": "Connecticut Debate State Champion",
+        "date": "2020-04-01",
+        "awarder": "Connecticut Debate Association",
+        "url": "",
+        "summary": ""
+      }
+    ],
+    "certificates": [],
+    "publications": [
+      {
+        "name": "Imitation Learning from a Single Temporally Misaligned Video",
+        "publisher": "In review at top ML conference",
+        "releaseDate": "2025-01-01",
+        "url": "https://arxiv.org/abs/2502.05397",
+        "summary": "First-author publication (equal contribution with Huaxiaoyue Wang) on a novel approach for learning difficult robotic control tasks from video"
+      },
+      {
+        "name": "Time your rewards: Learning Temporally Consistent Rewards from a Single Video Demonstration",
+        "publisher": "CoRL 2024 Workshop on Whole-body Control and Bimanual Manipulation",
+        "releaseDate": "2024-01-01",
+        "url": "https://openreview.net/forum?id=gsgkiuv9BS",
+        "summary": "Co-first-author publication (equal contribution with Huaxiaoyue Wang) presented at CoRL 2024 workshop"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "level": "Advanced",
+        "icon": "",
+        "keywords": [
+          "Python",
+          "Java",
+          "Typescript"
+        ]
+      },
+      {
+        "name": "Technologies",
+        "level": "Advanced",
+        "icon": "",
+        "keywords": [
+          "Pytorch",
+          "ROS",
+          "Git",
+          "Docker",
+          "AWS",
+          "SQL",
+          "Distributed Training",
+          "CUDA"
+        ]
+      }
+    ],
+    "languages": [],
+    "interests": [],
+    "references": []
+  }
