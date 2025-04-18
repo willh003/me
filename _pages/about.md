@@ -28,7 +28,7 @@ Hi, I'm Will. I'm a Senior at Cornell University studying Computer Science, and 
 
 In the past, I worked under Prof. Marco Hutter at the [ETH Zurich Robotic Systems Lab](https://rsl.ethz.ch/) and [Prof. Don Greenberg](https://aap.cornell.edu/people/donald-greenberg) at the [Cornell Program of Computer Graphics](https://www.graphics.cornell.edu/academics). I spent a summer as an intern at NASA and another at Amazon Web Services. At Cornell, I've maintained a 4.1 GPA, I was a teaching assistant for [CS 1620: Visual Imaging in the Electronic Age](https://classes.cornell.edu/browse/roster/FA20/class/CS/1620), and I'm a [Rawlings Presidential Research Scholar](https://scl.cornell.edu/get-involved/cornell-commitment/rawlings-cornell-presidential-research-scholars).
 
-I enjoy running marathons, climbing walls, and playing foot volley.
+I also enjoy running marathons, climbing walls, and playing foot volley.
 
 
 
