@@ -36,7 +36,7 @@ ninja.data = [{
           section: "News",},{id: "news-time-your-rewards-was-accepted-to-the-2024-corl-workshop-on-whole-body-control-and-bimanual-manipulation",
           title: 'Time Your Rewards was accepted to the 2024 CoRL workshop on Whole Body...',
           description: "",
-          section: "News",},{id: "news-i-was-a-panelist-at-acsu-research-night-where-i-had-the-opportunity-to-share-my-awesome-experience-with-undergraduate-research-at-cornell",
+          section: "News",},{id: "news-i-was-a-panelist-at-acsu-research-night-where-i-had-the-opportunity-to-share-my-awesome-research-experience-at-cornell-with-other-undergraduates",
           title: 'I was a panelist at ACSU research night, where I had the opportunity...',
           description: "",
           section: "News",},{id: "news-i-won-500-and-first-place-at-the-rcprs-grand-slam-for-my-research-presentation-on-learning-from-videos",
