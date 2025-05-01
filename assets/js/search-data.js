@@ -42,6 +42,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-won-500-and-first-place-at-the-rcprs-grand-slam-for-my-presentation-on-learning-from-videos",
           title: 'I won $500 and first place at the RCPRS Grand Slam for my...',
           description: "",
+          section: "News",},{id: "news-imitation-learning-from-a-single-temporally-misaligned-video-was-accepted-to-icml-2025-come-say-hi-in-vancouver",
+          title: 'Imitation Learning from a Single Temporally Misaligned Video was accepted to ICML 2025!...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
