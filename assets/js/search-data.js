@@ -45,6 +45,12 @@ ninja.data = [{
           section: "News",},{id: "news-imitation-learning-from-a-single-temporally-misaligned-video-was-accepted-to-icml-2025",
           title: 'Imitation Learning from a Single Temporally Misaligned Video was accepted to ICML 2025...',
           description: "",
+          section: "News",},{id: "news-i-graduated-summa-cum-laude-from-cornell-with-a-b-s-in-computer-science",
+          title: 'I graduated Summa Cum Laude from Cornell with a B.S. in Computer Science...',
+          description: "",
+          section: "News",},{id: "news-i-started-as-a-visiting-researcher-with-prof-abhishek-gupta-at-the-university-of-washington",
+          title: 'I started as a Visiting Researcher with Prof. Abhishek Gupta at the University...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
