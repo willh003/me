@@ -42,20 +42,7 @@
           "Wrote extensive unit, integration, and load tests that reflect actual customer request patterns"
         ]
       },
-      {
-        "name": "Research Intern",
-        "position": "ETH Zurich Robotic Systems Lab",
-        "summary": "Mobile robot traversability mapping under Prof. Marco Hutter and Prof. Donald Greenberg",
-        "highlights": [
-          "Built a ROS package for mobile robot traversability mapping, resulting in a successful deployment on an ANYmal quadruped",
-          "Proposed a novel method to predict environment traversability given language constraints using VLMs",
-          "Distilled large VLMs into smaller visual networks capable of real-time traversability segmentation",
-          "Presented work at the Rawlings Cornell Research Scholarship Grand Slam, winning first prize of $500"
-        ],
-        "startDate": "2023-06-01",
-        "endDate": "2023-08-01",
-        "url": ""
-      },
+
       {
         "name": "Software Engineering Intern",
         "position": "NASA",
