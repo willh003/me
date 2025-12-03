@@ -26,7 +26,7 @@ latest_posts:
 
 Hi, I'm Will. I'm a Visiting Researcher at the University of Washington, where I'm working on dexterous manipulation with [Prof. Abhishek Gupta](https://abhishekunique.github.io/). Previously, I worked with [Prof. Sanjiban Choudhury](https://sanjibanc.github.io/) on learning robot control from videos. 
 
-I recently graduated Summa Cum Laude from Cornell with a B.S. in Computer Science ('25). I maintained a 4.1 GPA, I was a teaching assistant for [Visual Imaging in the Electronic Age](https://classes.cornell.edu/browse/roster/FA20/class/CS/1620), and I was a [Rawlings Presidential Research Scholar](https://scl.cornell.edu/get-involved/cornell-commitment/rawlings-cornell-presidential-research-scholars). I spent my summers interning at NASA, the [Robotic Systems Lab](https://rsl.ethz.ch/), and Amazon Web Services. 
+I recently graduated Summa Cum Laude from Cornell with a B.S. in Computer Science ('25). I maintained a 4.1 GPA, I was a teaching assistant for [Visual Imaging in the Electronic Age](https://classes.cornell.edu/browse/roster/FA20/class/CS/1620), and I was a [Rawlings Presidential Research Scholar](https://scl.cornell.edu/get-involved/cornell-commitment/rawlings-cornell-presidential-research-scholars). I spent my summers interning at NASA and Amazon Web Services. 
 
 
 I also enjoy climbing and trail running.
